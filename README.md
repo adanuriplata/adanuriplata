@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'am Adan Uri Plata
+
+- 🌱 I’m currently learning Web3
 
 <!--
 **adanuriplata/adanuriplata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
